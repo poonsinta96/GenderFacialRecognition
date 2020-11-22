@@ -2,6 +2,8 @@
 
 Datasets: https://drive.google.com/drive/folders/1mj-LAHcnvUiWcsM5y0HZKCVCW6cpgHU0?usp=sharing
 
+Report: https://docs.google.com/document/d/1WkKSUjPNBnqKE7z-bNnH1xpAFzxBpaUQNiqq7AXHLU4/edit#
+
 This is a collection of what has been done and to do.
 Please add on if there is anything you want.
 
