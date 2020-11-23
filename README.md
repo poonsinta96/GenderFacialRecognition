@@ -1,17 +1,4 @@
 # GenderFacialRecognition
 
-Datasets: https://drive.google.com/drive/folders/1mj-LAHcnvUiWcsM5y0HZKCVCW6cpgHU0?usp=sharing
-
-Report: https://docs.google.com/document/d/1WkKSUjPNBnqKE7z-bNnH1xpAFzxBpaUQNiqq7AXHLU4/edit#
-
-This is a collection of what has been done and to do.
-Please add on if there is anything you want.
-
-* CSV preparation
-* Train-test split,
-* Data augmentation (stretch, turn pic etc to let model learn more variations)
-
-<h2>TO DO:</h2>
-
-* Selection of neural network model (current is inceptionV3 no guuud)
-* Migrate to jupyter
+The dataset and metadata are held in the following drive: https://drive.google.com/drive/folders/1mj-LAHcnvUiWcsM5y0HZKCVCW6cpgHU0?usp=sharing
+Credit to: Eran Eidinger, Roee Enbar, Tal Hassner. Age and Gender Estimation of Unfiltered Faces. Transactions on Information Forensics and Security (IEEE-TIFS), special issue on Facial Biometrics in the Wild, Volume 9, Issue 12, pages 2170 - 2179, 2014.
